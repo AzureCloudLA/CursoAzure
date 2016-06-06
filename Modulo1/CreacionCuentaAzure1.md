@@ -4,7 +4,7 @@ Los titulos estan en español y los screenshos en inglés de forma intencional p
  con el portal configurado en cualquier de los dos idiomas</span>
  <span id="Tarea1" cuentaprueba="julidev32@outlook.com" />
  1. Ingresa a la página https://www.windowsazure.com/en-us/  y haga clic en la opción "FREE ACCOUNT"
- ![grupo de recursos](media/01.png)
+ ![grupo de recursos](https://github.com/AzureCloudLA/CursoAzure/edit/master/Modulo1/media/01.png)
  2. A continuación haga clic en el botón "Start Now"
  ![grupo de recursos](media/02.png)
  3. Si nunca ha configurado una cuenta de prueba de azure, puede ingresarla en este momento, de lo contrario, cree una nueva cuenta para realizar la prueba.
